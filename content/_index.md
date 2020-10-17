@@ -1,19 +1,17 @@
 +++
-title = "Compose"
+title = "Introduction"
 +++
 
 {{< block "grid-2 mt-2" >}}
 {{< column >}}
 
-# Compose your Docs with __Ease__.
+# Introduction
 
-Compose is a lean theme for the `Hugo`, inspired by [forestry.io](https://forestry.io). 
+Widget APP is a brand new desktop widget app for IOS 14. You can easily add countdown widgets to your home screen, reminding you how far away from important events at any time.
 
-We do a [Pull Request](https://github.com/onweru/compose/pulls) contributions workflow on **GitHub**. Also feel free to raise any issues or feature suggestions.
+You can customize your countdown at will, including setting the name, time and background, etc. In addition, we also have specific countdown themes for you to choose from, such as "death countdown", which can predict how many weekends and sexes you can have in your rest of time.
 
-Note that the theme is built with simplicity in mind. This way, if a suggestion complicates the usability of the theme, it may be declined. New users are always welcome!
-
-{{< button "docs/" "Read the Docs" >}} {{< button "https://github.com/onweru/compose" "Download Theme" >}}
+In the near future, we will release more practical and fun widgets to make your life more efficient and beautiful.
 
 {{< /column >}}
 {{< column >}}
