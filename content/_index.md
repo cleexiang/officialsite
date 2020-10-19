@@ -7,11 +7,11 @@ title = "Introduction"
 
 # Introduction
 
-Widget APP is a brand new desktop widget app for IOS 14. You can easily add countdown widgets to your home screen, reminding you how far away from important events at any time.
-
-You can customize your countdown at will, including setting the name, time and background, etc. In addition, we also have specific countdown themes for you to choose from, such as "death countdown", which can predict how many weekends and sexes you can have in your rest of time.
-
-In the near future, we will release more practical and fun widgets to make your life more efficient and beautiful.
+Onesoft-app a globalized mobile internet company. 
+We are committed to creating innovative internet products to serve internet users from every country around the world, making their lives more convenient and beautiful.
+The core team members have many years of experience in product, operation, promotion and technology management in large companies.
+We are both down-to-earth and ambitious. We hope we can gain the recognition of billions of users around the world through innovation of product, technology and business, and we will also seek users scale and revenue growth to create an innovation-driven healthy growth company .
+We seek partners who have both professional capabilities and entrepreneurial spirit to create innovative products, realize self-worth and make a lot of fortune by the way.
 
 {{< /column >}}
 {{< column >}}

@@ -36,3 +36,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [params]
   author = "Chengdu Yongyi Technology Co., Ltd. All Rights Reserved."
+  [params.logo]
+    lightMode = "compose.svg"
+    darkMode = "compose-light.svg"
